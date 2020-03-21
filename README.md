@@ -12,6 +12,10 @@ Steps:
 ![pic-1](https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-1.png)
 
 - select folder
+![pic-2](https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-2.png)
 
-- and that's it, you should be able to see the coronavirus is blinking
+- then the plugin shows up and you are good to go !!!
+![pic-3](https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-3.png)
+
+## From now on you can avoid see coronavirus, hurray !!!
 
