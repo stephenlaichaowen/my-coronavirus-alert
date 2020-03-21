@@ -9,7 +9,7 @@ Since Google Store stops taking submitted plugin after 3/24, so there is no need
 Steps:
 - go to [this page](chrome://extensions/)
 - press the load unpacked item
-!(https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-1.png)
+![pic-1](https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-1.png)
 
 - select folder
 
