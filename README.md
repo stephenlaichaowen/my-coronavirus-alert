@@ -7,7 +7,7 @@ when a user visit a page that has coronavirus/新官肺炎 strings, the plugin m
 Since Google Store stops taking submitted plugin after 3/24, so there is no need for developers to create plugins. we can only run the plugin locally.
 
 Steps:
-- go to [this page](chrome://extensions/)
+- visit ![chrome://extensions/](chrome://extensions/)
 - press the load unpacked item
 ![pic-1](https://stephenlaichaowen.github.io/my-assets/img/chrome-plugin/pig-1.png)
 
